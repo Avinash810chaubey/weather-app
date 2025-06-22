@@ -42,7 +42,7 @@ npm run dev
 Open your browser and go to http://localhost:5173
 
 📸 Screenshots
-![Weather App](/src/assets/screenshot.png)
+![Weather App](screenshot.png)
 
 Light Mode	Dark Mode
 
